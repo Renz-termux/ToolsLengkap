@@ -13,91 +13,23 @@ echo
 clear
 echo
 echo $red"          Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v("   
-sleep 1
-echo '''\a
-\033[34;1m                              _
-\033[34;1m                             / |
-\033[34;1m                             | |
-\033[34;1m                             | |
-\033[34;1m                            _|_|_ '''
-sleep 1
+echo $red"            harap sabar menunggu yaa sayang :v("                    
 apt update && apt upgrade
 apt install nano
 apt install git
 pkg install python python2 vim figlet curl
-clear
-echo
-echo
-echo
-echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[32;1m                             ____
-\033[32;1m                            |___ \
-\033[32;1m                             __) |
-\033[32;1m                            / __/
-\033[32;1m                           |_____| '''
-sleep 1
 apt install php
 pip2 install mechanize
 pip2 install lolcat
 pip2 install requests
 clear
 echo
-echo
-echo
-echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[35;1m                            _____
-\033[35;1m                           |___ /
-\033[35;1m                             |_ \
-\033[35;1m                            ___) |
-\033[35;1m                           |____/ '''
-sleep 1
-clear
-echo
-echo
-echo
-echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[33;1m                            _  _
-\033[33;1m                           | || |
-\033[33;1m                           | || |_
-\033[33;1m                           |__   _|
-\033[33;1m                              |_| '''
-sleep 1
-clear
-echo
-echo
-echo
-echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[36;1m                             ____
-\033[36;1m                            | ___|
-\033[36;1m                            |___ \
-\033[36;1m                             ___) |
-\033[36;1m                            |____/ '''
-sleep 1
-clear
-echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  RENDI  "$i"                   Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp  :  0821********"$i"              Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  fhxspm***@gmail.com"$i"       Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RENZ TV"$i"           Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  lm_rendi_gs"$i"               Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
